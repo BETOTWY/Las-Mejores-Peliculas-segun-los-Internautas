@@ -1,0 +1,170 @@
+*{
+    margin: 0;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+body{
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+
+#img1{
+    float: right;
+    width: 300px;
+    height: 400px;
+}
+
+#text1{
+    color: goldenrod;
+    font-size: 40px;
+}  
+
+#text2{
+    color: crimson;
+    font-size: 20px;
+}
+
+#img2{
+    float: right;
+    width: 300px;
+    height: 400px;
+}
+
+#text3{
+    color: mediumpurple;
+    font-size: 40px;
+}
+
+#text4{
+    color: orchid;
+    font-size: 20px;
+}
+
+#img3{
+    float: right;
+    width: 300px;
+    height: 400px;
+}
+
+#text5{
+    color: slateblue;
+    font-size: 40px;
+}
+
+#text6{
+    color: cornflowerblue;
+}
+
+#img4{
+    float: right;
+    width: 300px;
+    height: 400px;
+}
+
+#text7{
+    color: crimson;
+    font-size: 40px;
+}
+
+#text8{
+    color: lightcoral;
+    font-size: 20px;
+}
+
+#img5{
+    float: right;
+    width: 300px;
+    height: 400px;
+}
+
+#text9{
+    color: dodgerblue;
+    font-size: 40px;
+}
+
+#text10{
+    color: lightseagreen;
+    font-size: 20px;
+}
+
+#img6{
+    float: right;
+    width: 300px;
+    height: 400px;
+}
+
+#text11{
+    color: firebrick;
+    font-size: 40px;
+}
+
+#text12{
+    color: mediumblue;
+    font-size: 20px;
+}
+
+#img7{
+    float: right;
+    width: 300px;
+    height: 400px;
+}
+
+#text13{
+    color: mediumorchid;
+    font-size: 40px;
+}
+
+#text14{
+    color: rebeccapurple;
+    font-size: 20px;
+}
+
+#img8{
+    float: right;
+    width: 300px;
+    height: 400px;
+}
+
+#text15{
+    color: goldenrod;
+    font-size: 40px;
+}
+
+#text16{
+    color: crimson;
+    font-size: 20px;
+}
+
+#img9{
+    float: right;
+    width: 300px;
+    height: 400px;
+}
+
+#text17{
+    color: mediumpurple;
+    font-size: 40px;
+}
+
+#text18{
+    color: orchid;
+    font-size: 20px;
+}
+
+#img10{
+    float: right;
+    width: 300px;
+    height: 400px;
+}
+
+#text19{
+    color: magenta;
+    font-size: 40px;
+}
+
+#text20{
+    color: lightseagreen;
+    font-size: 20px;
+}
